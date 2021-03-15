@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1615792070 source:c:\users\hrijo\onedrive - murdoch university\2021_s1\ict283\bucky\composition\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1615794572 c:\users\hrijo\onedrive - murdoch university\2021_s1\ict283\bucky\composition\include\birthday.h
+
+1615794139 source:c:\users\hrijo\onedrive - murdoch university\2021_s1\ict283\bucky\composition\main.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+
+1615794498 c:\users\hrijo\onedrive - murdoch university\2021_s1\ict283\bucky\composition\include\people.h
+	<string>
+	"Birthday.h"
+	<iostream>
+
+1615794150 source:c:\users\hrijo\onedrive - murdoch university\2021_s1\ict283\bucky\composition\src\people.cpp
+	"People.h"
+	"Birthday.h"
+	<iostream>
+

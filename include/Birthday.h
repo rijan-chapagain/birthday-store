@@ -7,7 +7,6 @@ class Birthday
     public:
         Birthday(int m, int d, int y);
         void printDate();
-        virtual ~Birthday();
 
     private:
         int month;
